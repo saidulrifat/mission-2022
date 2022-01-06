@@ -10,7 +10,6 @@ body{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
     padding-left: 10px;
-
 }
 .flex-container{
     display: flex;
@@ -19,7 +18,6 @@ body{
     width: 40%;
     padding-left: 9%;
     padding-top: 5%;
-
 }
 .button{
     text-decoration: none;
@@ -34,4 +32,33 @@ body{
 }
 span{
     color: rgb(209, 121, 89);
+}
+.second-heading{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.explore-mission{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+.explore-mission img{
+    width: 40%;
+}
+#mission{
+    margin-left: 100px;
+    background-color: rgb(232, 243, 243);
+}
+#vission{
+    background-color: rgb(253, 224, 253);
+}
+#goals{
+    margin-right: 100px;
+    background-color: rgb(225, 255, 219);
 }
