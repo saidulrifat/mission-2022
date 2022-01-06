@@ -107,3 +107,17 @@ span{
     padding: 10px 8px;
     border-radius: 10px;
 }
+footer{
+    text-align: center;
+    padding: 2% 2%;
+    color: blanchedalmond;
+    background-color: gray;
+}
+footer h2{
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+    
+}
+footer p{
+    font-size: 12px;
+}
