@@ -75,3 +75,20 @@ span{
     width: 400px;
     padding-left: 15%;
 }
+.global-community{
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.global-community img{
+    width: 400px;
+    
+}
+.global-community h1{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 40px;
+}
+#global-discus{
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
