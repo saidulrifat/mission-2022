@@ -62,3 +62,16 @@ span{
     margin-right: 100px;
     background-color: rgb(225, 255, 219);
 }
+.develop-limit{
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+.develop-limit h1{
+    font-size: 40px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.develop-limit img{
+    width: 400px;
+    padding-left: 15%;
+}
